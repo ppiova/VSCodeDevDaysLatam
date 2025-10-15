@@ -1,0 +1,53 @@
+{
+  "name": "vscodedevdayslatam",
+  "version": "1.0.0",
+  "description": "World Cup 2026 Information Website",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest",
+    "validate-data": "tsx scripts/validate-data.ts"
+  },
+  "keywords": [
+    "world-cup",
+    "2026",
+    "football",
+    "soccer"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@radix-ui/react-slot": "^1.2.3",
+    "@types/node": "^24.7.2",
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.2",
+    "autoprefixer": "^10.4.21",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.545.0",
+    "next": "^14.2.33",
+    "next-seo": "^6.8.0",
+    "postcss": "^8.5.6",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tailwind-merge": "^3.3.1",
+    "typescript": "^5.9.3",
+    "zod": "^4.1.12",
+    "zustand": "^5.0.8"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.9.1",
+    "@testing-library/react": "^16.3.0",
+    "@vitejs/plugin-react": "^5.0.4",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "^14.2.33",
+    "jsdom": "^27.0.0",
+    "prettier": "^3.6.2",
+    "tailwindcss": "^3.4.18",
+    "tsx": "^4.20.6",
+    "vitest": "^3.2.4"
+  }
+}

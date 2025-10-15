@@ -1,0 +1,21 @@
+{
+  "name": "Mundial 2026",
+  "short_name": "Mundial 2026",
+  "description": "Sitio informativo del Mundial de Fútbol 2026",
+  "start_url": "/VSCodeDevDaysLatam/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#16a34a",
+  "icons": [
+    {
+      "src": "/VSCodeDevDaysLatam/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/VSCodeDevDaysLatam/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
