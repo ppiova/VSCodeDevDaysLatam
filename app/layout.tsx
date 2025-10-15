@@ -7,6 +7,10 @@ export const metadata: Metadata = {
   title: `${TOURNAMENT_NAME} - Sitio Oficial de Información`,
   description: "Toda la información sobre el Mundial de Fútbol 2026: fixtures, sedes, equipos y más.",
   keywords: ["Mundial 2026", "Copa del Mundo", "FIFA", "Fútbol", "México", "Estados Unidos", "Canadá"],
+  icons: {
+    icon: '/favicon.svg',
+  },
+  manifest: '/manifest.webmanifest',
   openGraph: {
     title: `${TOURNAMENT_NAME}`,
     description: "Toda la información sobre el Mundial de Fútbol 2026",
