@@ -1,0 +1,58 @@
+[
+  {
+    "code": "ARG",
+    "name": "Argentina",
+    "group": "A",
+    "confed": "CONMEBOL",
+    "flag": "/flags/ARG.png"
+  },
+  {
+    "code": "MEX",
+    "name": "México",
+    "group": "A",
+    "confed": "CONCACAF",
+    "flag": "/flags/MEX.png"
+  },
+  {
+    "code": "BRA",
+    "name": "Brasil",
+    "group": "B",
+    "confed": "CONMEBOL",
+    "flag": "/flags/BRA.png"
+  },
+  {
+    "code": "ESP",
+    "name": "España",
+    "group": "B",
+    "confed": "UEFA",
+    "flag": "/flags/ESP.png"
+  },
+  {
+    "code": "FRA",
+    "name": "Francia",
+    "group": "C",
+    "confed": "UEFA",
+    "flag": "/flags/FRA.png"
+  },
+  {
+    "code": "USA",
+    "name": "Estados Unidos",
+    "group": "C",
+    "confed": "CONCACAF",
+    "flag": "/flags/USA.png"
+  },
+  {
+    "code": "GER",
+    "name": "Alemania",
+    "group": "D",
+    "confed": "UEFA",
+    "flag": "/flags/GER.png"
+  },
+  {
+    "code": "CAN",
+    "name": "Canadá",
+    "group": "D",
+    "confed": "CONCACAF",
+    "flag": "/flags/CAN.png"
+  }
+]

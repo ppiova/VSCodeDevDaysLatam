@@ -1,0 +1,82 @@
+[
+  {
+    "slug": "estadio-azteca",
+    "name": "Estadio Azteca",
+    "city": "Ciudad de México",
+    "country": "México",
+    "capacity": 87000,
+    "tz": "America/Mexico_City",
+    "lat": 19.3029,
+    "lng": -99.1506
+  },
+  {
+    "slug": "estadio-bbva",
+    "name": "Estadio BBVA",
+    "city": "Monterrey",
+    "country": "México",
+    "capacity": 53500,
+    "tz": "America/Monterrey",
+    "lat": 25.7209,
+    "lng": -100.2872
+  },
+  {
+    "slug": "estadio-akron",
+    "name": "Estadio Akron",
+    "city": "Guadalajara",
+    "country": "México",
+    "capacity": 46232,
+    "tz": "America/Mexico_City",
+    "lat": 20.6861,
+    "lng": -103.4631
+  },
+  {
+    "slug": "metlife-stadium",
+    "name": "MetLife Stadium",
+    "city": "Nueva Jersey",
+    "country": "Estados Unidos",
+    "capacity": 82500,
+    "tz": "America/New_York",
+    "lat": 40.8128,
+    "lng": -74.0742
+  },
+  {
+    "slug": "sofi-stadium",
+    "name": "SoFi Stadium",
+    "city": "Los Ángeles",
+    "country": "Estados Unidos",
+    "capacity": 70240,
+    "tz": "America/Los_Angeles",
+    "lat": 33.9535,
+    "lng": -118.3392
+  },
+  {
+    "slug": "att-stadium",
+    "name": "AT&T Stadium",
+    "city": "Arlington",
+    "country": "Estados Unidos",
+    "capacity": 80000,
+    "tz": "America/Chicago",
+    "lat": 32.7473,
+    "lng": -97.0945
+  },
+  {
+    "slug": "bmo-field",
+    "name": "BMO Field",
+    "city": "Toronto",
+    "country": "Canadá",
+    "capacity": 45500,
+    "tz": "America/Toronto",
+    "lat": 43.6332,
+    "lng": -79.4189
+  },
+  {
+    "slug": "bc-place",
+    "name": "BC Place",
+    "city": "Vancouver",
+    "country": "Canadá",
+    "capacity": 54500,
+    "tz": "America/Vancouver",
+    "lat": 49.2768,
+    "lng": -123.1119
+  }
+]

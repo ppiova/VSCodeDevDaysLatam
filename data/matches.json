@@ -1,0 +1,74 @@
+[
+  {
+    "id": "mx-001",
+    "dateUTC": "2026-06-11T19:00:00Z",
+    "stage": "Fase de Grupos",
+    "group": "A",
+    "home": "MEX",
+    "away": "ARG",
+    "venue": "estadio-azteca"
+  },
+  {
+    "id": "mx-002",
+    "dateUTC": "2026-06-12T16:00:00Z",
+    "stage": "Fase de Grupos",
+    "group": "B",
+    "home": "BRA",
+    "away": "ESP",
+    "venue": "estadio-bbva"
+  },
+  {
+    "id": "usa-001",
+    "dateUTC": "2026-06-12T19:00:00Z",
+    "stage": "Fase de Grupos",
+    "group": "C",
+    "home": "USA",
+    "away": "FRA",
+    "venue": "metlife-stadium"
+  },
+  {
+    "id": "can-001",
+    "dateUTC": "2026-06-13T17:00:00Z",
+    "stage": "Fase de Grupos",
+    "group": "D",
+    "home": "CAN",
+    "away": "GER",
+    "venue": "bmo-field"
+  },
+  {
+    "id": "mx-003",
+    "dateUTC": "2026-06-15T19:00:00Z",
+    "stage": "Fase de Grupos",
+    "group": "A",
+    "home": "ARG",
+    "away": "MEX",
+    "venue": "estadio-akron"
+  },
+  {
+    "id": "usa-002",
+    "dateUTC": "2026-06-16T16:00:00Z",
+    "stage": "Fase de Grupos",
+    "group": "B",
+    "home": "ESP",
+    "away": "BRA",
+    "venue": "sofi-stadium"
+  },
+  {
+    "id": "usa-003",
+    "dateUTC": "2026-06-17T19:00:00Z",
+    "stage": "Fase de Grupos",
+    "group": "C",
+    "home": "FRA",
+    "away": "USA",
+    "venue": "att-stadium"
+  },
+  {
+    "id": "can-002",
+    "dateUTC": "2026-06-18T17:00:00Z",
+    "stage": "Fase de Grupos",
+    "group": "D",
+    "home": "GER",
+    "away": "CAN",
+    "venue": "bc-place"
+  }
+]
