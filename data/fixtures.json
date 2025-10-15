@@ -1,0 +1,106 @@
+{
+  "tournamentStart": "2026-06-11T00:00:00.000Z",
+  "tournamentEnd": "2026-07-19T00:00:00.000Z",
+  "matches": [
+    {
+      "id": 1,
+      "phase": "Fase de Grupos",
+      "group": "A",
+      "date": "2026-06-11",
+      "time": "18:00",
+      "homeTeam": "México",
+      "awayTeam": "TBD",
+      "venue": "Estadio Azteca"
+    },
+    {
+      "id": 2,
+      "phase": "Fase de Grupos",
+      "group": "A",
+      "date": "2026-06-12",
+      "time": "15:00",
+      "homeTeam": "Uruguay",
+      "awayTeam": "Jamaica",
+      "venue": "SoFi Stadium"
+    },
+    {
+      "id": 3,
+      "phase": "Fase de Grupos",
+      "group": "B",
+      "date": "2026-06-12",
+      "time": "18:00",
+      "homeTeam": "Estados Unidos",
+      "awayTeam": "Gales",
+      "venue": "MetLife Stadium"
+    },
+    {
+      "id": 4,
+      "phase": "Fase de Grupos",
+      "group": "B",
+      "date": "2026-06-13",
+      "time": "12:00",
+      "homeTeam": "Panamá",
+      "awayTeam": "TBD",
+      "venue": "Mercedes-Benz Stadium"
+    },
+    {
+      "id": 5,
+      "phase": "Fase de Grupos",
+      "group": "C",
+      "date": "2026-06-13",
+      "time": "15:00",
+      "homeTeam": "Argentina",
+      "awayTeam": "Polonia",
+      "venue": "Hard Rock Stadium"
+    },
+    {
+      "id": 6,
+      "phase": "Octavos de Final",
+      "group": null,
+      "date": "2026-06-27",
+      "time": "15:00",
+      "homeTeam": "1° Grupo A",
+      "awayTeam": "2° Grupo B",
+      "venue": "MetLife Stadium"
+    },
+    {
+      "id": 7,
+      "phase": "Octavos de Final",
+      "group": null,
+      "date": "2026-06-28",
+      "time": "18:00",
+      "homeTeam": "1° Grupo C",
+      "awayTeam": "2° Grupo D",
+      "venue": "AT&T Stadium"
+    },
+    {
+      "id": 8,
+      "phase": "Cuartos de Final",
+      "group": null,
+      "date": "2026-07-05",
+      "time": "15:00",
+      "homeTeam": "Ganador OF1",
+      "awayTeam": "Ganador OF2",
+      "venue": "SoFi Stadium"
+    },
+    {
+      "id": 9,
+      "phase": "Semifinales",
+      "group": null,
+      "date": "2026-07-14",
+      "time": "18:00",
+      "homeTeam": "Ganador CF1",
+      "awayTeam": "Ganador CF2",
+      "venue": "MetLife Stadium"
+    },
+    {
+      "id": 10,
+      "phase": "Final",
+      "group": null,
+      "date": "2026-07-19",
+      "time": "15:00",
+      "homeTeam": "Ganador SF1",
+      "awayTeam": "Ganador SF2",
+      "venue": "MetLife Stadium"
+    }
+  ]
+}
