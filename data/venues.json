@@ -1,0 +1,132 @@
+{
+  "venues": [
+    {
+      "id": 1,
+      "city": "Ciudad de México",
+      "country": "México",
+      "stadium": "Estadio Azteca",
+      "capacity": 87523,
+      "flag": "🇲🇽"
+    },
+    {
+      "id": 2,
+      "city": "Guadalajara",
+      "country": "México",
+      "stadium": "Estadio Akron",
+      "capacity": 48071,
+      "flag": "🇲🇽"
+    },
+    {
+      "id": 3,
+      "city": "Monterrey",
+      "country": "México",
+      "stadium": "Estadio BBVA",
+      "capacity": 53500,
+      "flag": "🇲🇽"
+    },
+    {
+      "id": 4,
+      "city": "Nueva York/Nueva Jersey",
+      "country": "Estados Unidos",
+      "stadium": "MetLife Stadium",
+      "capacity": 82500,
+      "flag": "🇺🇸"
+    },
+    {
+      "id": 5,
+      "city": "Los Ángeles",
+      "country": "Estados Unidos",
+      "stadium": "SoFi Stadium",
+      "capacity": 70240,
+      "flag": "🇺🇸"
+    },
+    {
+      "id": 6,
+      "city": "Dallas",
+      "country": "Estados Unidos",
+      "stadium": "AT&T Stadium",
+      "capacity": 80000,
+      "flag": "🇺🇸"
+    },
+    {
+      "id": 7,
+      "city": "Houston",
+      "country": "Estados Unidos",
+      "stadium": "NRG Stadium",
+      "capacity": 72220,
+      "flag": "🇺🇸"
+    },
+    {
+      "id": 8,
+      "city": "Atlanta",
+      "country": "Estados Unidos",
+      "stadium": "Mercedes-Benz Stadium",
+      "capacity": 71000,
+      "flag": "🇺🇸"
+    },
+    {
+      "id": 9,
+      "city": "Miami",
+      "country": "Estados Unidos",
+      "stadium": "Hard Rock Stadium",
+      "capacity": 64767,
+      "flag": "🇺🇸"
+    },
+    {
+      "id": 10,
+      "city": "Seattle",
+      "country": "Estados Unidos",
+      "stadium": "Lumen Field",
+      "capacity": 69000,
+      "flag": "🇺🇸"
+    },
+    {
+      "id": 11,
+      "city": "San Francisco",
+      "country": "Estados Unidos",
+      "stadium": "Levi's Stadium",
+      "capacity": 68500,
+      "flag": "🇺🇸"
+    },
+    {
+      "id": 12,
+      "city": "Kansas City",
+      "country": "Estados Unidos",
+      "stadium": "Arrowhead Stadium",
+      "capacity": 76416,
+      "flag": "🇺🇸"
+    },
+    {
+      "id": 13,
+      "city": "Boston",
+      "country": "Estados Unidos",
+      "stadium": "Gillette Stadium",
+      "capacity": 65878,
+      "flag": "🇺🇸"
+    },
+    {
+      "id": 14,
+      "city": "Filadelfia",
+      "country": "Estados Unidos",
+      "stadium": "Lincoln Financial Field",
+      "capacity": 69796,
+      "flag": "🇺🇸"
+    },
+    {
+      "id": 15,
+      "city": "Toronto",
+      "country": "Canadá",
+      "stadium": "BMO Field",
+      "capacity": 45500,
+      "flag": "🇨🇦"
+    },
+    {
+      "id": 16,
+      "city": "Vancouver",
+      "country": "Canadá",
+      "stadium": "BC Place",
+      "capacity": 54500,
+      "flag": "🇨🇦"
+    }
+  ]
+}
