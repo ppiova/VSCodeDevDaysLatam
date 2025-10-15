@@ -1,106 +1,211 @@
 {
+  "note": "Calendario oficial FIFA - Sorteo final: 5 de diciembre de 2025 en Washington D.C.",
   "tournamentStart": "2026-06-11T00:00:00.000Z",
   "tournamentEnd": "2026-07-19T00:00:00.000Z",
-  "matches": [
+  "format": {
+    "teams": 48,
+    "groups": 12,
+    "teamsPerGroup": 4,
+    "advancePerGroup": 2,
+    "thirdPlaceTeams": 8,
+    "knockoutRounds": ["Octavos", "Cuartos", "Semifinales", "Tercer Lugar", "Final"],
+    "totalMatches": 104
+  },
+  "confirmedMatches": [
     {
       "id": 1,
       "phase": "Fase de Grupos",
       "group": "A",
       "date": "2026-06-11",
-      "time": "18:00",
+      "time": "TBD",
       "homeTeam": "México",
       "awayTeam": "TBD",
-      "venue": "Estadio Azteca"
+      "venue": "Estadio Azteca",
+      "city": "Ciudad de México",
+      "country": "México",
+      "confirmed": true,
+      "note": "Partido inaugural del Mundial"
+    },
+    {
+      "id": 2,
+      "phase": "Fase de Grupos",
+      "group": "B",
+      "date": "2026-06-12",
+      "time": "TBD",
+      "homeTeam": "Canadá",
+      "awayTeam": "TBD",
+      "venue": "BMO Field",
+      "city": "Toronto",
+      "country": "Canadá",
+      "confirmed": true,
+      "note": "Tercer partido del torneo - Debut de Canadá"
+    },
+    {
+      "id": 3,
+      "phase": "Fase de Grupos",
+      "group": "D",
+      "date": "2026-06-12",
+      "time": "TBD",
+      "homeTeam": "Estados Unidos",
+      "awayTeam": "TBD",
+      "venue": "SoFi Stadium",
+      "city": "Inglewood",
+      "country": "Estados Unidos",
+      "confirmed": true,
+      "note": "Cuarto partido del torneo - Debut de Estados Unidos"
+    }
+  ],
+  "matches": [
+    {
+      "id": 1,
+      "phase": "Fase de Grupos",
+      "group": "A",
+      "matchday": 1,
+      "date": "2026-06-11",
+      "time": "TBD",
+      "homeTeam": "México",
+      "awayTeam": "TBD",
+      "venue": "Estadio Azteca",
+      "city": "Ciudad de México"
     },
     {
       "id": 2,
       "phase": "Fase de Grupos",
       "group": "A",
-      "date": "2026-06-12",
-      "time": "15:00",
-      "homeTeam": "Uruguay",
-      "awayTeam": "Jamaica",
-      "venue": "SoFi Stadium"
+      "matchday": 1,
+      "date": "2026-06-11",
+      "time": "TBD",
+      "homeTeam": "TBD",
+      "awayTeam": "TBD",
+      "venue": "Estadio Akron",
+      "city": "Guadalajara"
     },
     {
       "id": 3,
       "phase": "Fase de Grupos",
       "group": "B",
+      "matchday": 1,
       "date": "2026-06-12",
-      "time": "18:00",
-      "homeTeam": "Estados Unidos",
-      "awayTeam": "Gales",
-      "venue": "MetLife Stadium"
+      "time": "TBD",
+      "homeTeam": "Canadá",
+      "awayTeam": "TBD",
+      "venue": "BMO Field",
+      "city": "Toronto"
     },
     {
       "id": 4,
       "phase": "Fase de Grupos",
-      "group": "B",
-      "date": "2026-06-13",
-      "time": "12:00",
-      "homeTeam": "Panamá",
+      "group": "D",
+      "matchday": 1,
+      "date": "2026-06-12",
+      "time": "TBD",
+      "homeTeam": "Estados Unidos",
       "awayTeam": "TBD",
-      "venue": "Mercedes-Benz Stadium"
+      "venue": "SoFi Stadium",
+      "city": "Inglewood"
     },
     {
       "id": 5,
-      "phase": "Fase de Grupos",
-      "group": "C",
-      "date": "2026-06-13",
-      "time": "15:00",
-      "homeTeam": "Argentina",
-      "awayTeam": "Polonia",
-      "venue": "Hard Rock Stadium"
+      "phase": "Octavos de Final",
+      "group": null,
+      "date": "2026-06-28",
+      "time": "TBD",
+      "homeTeam": "1° Grupo A",
+      "awayTeam": "3° Grupo C/D/F/G/H",
+      "venue": "Gillette Stadium",
+      "city": "Foxborough"
     },
     {
       "id": 6,
       "phase": "Octavos de Final",
       "group": null,
-      "date": "2026-06-27",
-      "time": "15:00",
-      "homeTeam": "1° Grupo A",
-      "awayTeam": "2° Grupo B",
-      "venue": "MetLife Stadium"
+      "date": "2026-06-29",
+      "time": "TBD",
+      "homeTeam": "1° Grupo E",
+      "awayTeam": "3° Grupo A/B/C/D/F",
+      "venue": "Gillette Stadium",
+      "city": "Foxborough"
     },
     {
       "id": 7,
-      "phase": "Octavos de Final",
+      "phase": "Cuartos de Final",
       "group": null,
-      "date": "2026-06-28",
-      "time": "18:00",
-      "homeTeam": "1° Grupo C",
-      "awayTeam": "2° Grupo D",
-      "venue": "AT&T Stadium"
+      "date": "2026-07-09",
+      "time": "TBD",
+      "homeTeam": "Ganador Octavos 1",
+      "awayTeam": "Ganador Octavos 2",
+      "venue": "Gillette Stadium",
+      "city": "Foxborough"
     },
     {
       "id": 8,
-      "phase": "Cuartos de Final",
+      "phase": "Semifinales",
       "group": null,
-      "date": "2026-07-05",
-      "time": "15:00",
-      "homeTeam": "Ganador OF1",
-      "awayTeam": "Ganador OF2",
-      "venue": "SoFi Stadium"
+      "date": "2026-07-14",
+      "time": "TBD",
+      "homeTeam": "Ganador Cuarto 1",
+      "awayTeam": "Ganador Cuarto 2",
+      "venue": "AT&T Stadium",
+      "city": "Arlington"
     },
     {
       "id": 9,
       "phase": "Semifinales",
       "group": null,
-      "date": "2026-07-14",
-      "time": "18:00",
-      "homeTeam": "Ganador CF1",
-      "awayTeam": "Ganador CF2",
-      "venue": "MetLife Stadium"
+      "date": "2026-07-15",
+      "time": "TBD",
+      "homeTeam": "Ganador Cuarto 3",
+      "awayTeam": "Ganador Cuarto 4",
+      "venue": "Mercedes-Benz Stadium",
+      "city": "Atlanta"
     },
     {
       "id": 10,
+      "phase": "Tercer Lugar",
+      "group": null,
+      "date": "2026-07-18",
+      "time": "TBD",
+      "homeTeam": "Perdedor SF1",
+      "awayTeam": "Perdedor SF2",
+      "venue": "Hard Rock Stadium",
+      "city": "Miami Gardens"
+    },
+    {
+      "id": 11,
       "phase": "Final",
       "group": null,
       "date": "2026-07-19",
-      "time": "15:00",
+      "time": "TBD",
       "homeTeam": "Ganador SF1",
       "awayTeam": "Ganador SF2",
-      "venue": "MetLife Stadium"
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford",
+      "note": "GRAN FINAL - MetLife Stadium, Nueva York/Nueva Jersey"
     }
-  ]
+  ],
+  "keyDates": {
+    "finalDraw": "2026-12-05",
+    "tournamentStart": "2026-06-11",
+    "groupStageEnd": "2026-06-27",
+    "roundOf32Start": "2026-06-28",
+    "roundOf32End": "2026-07-03",
+    "roundOf16Start": "2026-07-04",
+    "roundOf16End": "2026-07-07",
+    "quarterfinalsStart": "2026-07-09",
+    "quarterfinalsEnd": "2026-07-11",
+    "semifinals": ["2026-07-14", "2026-07-15"],
+    "thirdPlace": "2026-07-18",
+    "final": "2026-07-19"
+  },
+  "stadiumInfo": {
+    "mostMatches": "AT&T Stadium (Arlington, Texas) - 9 partidos",
+    "finalVenue": "MetLife Stadium (East Rutherford, Nueva Jersey)",
+    "openingVenue": "Estadio Azteca (Ciudad de México, México)",
+    "totalVenues": 16,
+    "venuesByCountry": {
+      "USA": 11,
+      "Mexico": 3,
+      "Canada": 2
+    }
+  }
 }

@@ -1,0 +1,332 @@
+{
+  "lastUpdated": "2025-10-15",
+  "worldCup": "FIFA World Cup 2026",
+  "totalTeams": 48,
+  "qualifiedTeams": 28,
+  "remainingSpots": 20,
+  "drawDate": "2025-12-05",
+  "drawLocation": "Kennedy Center, Washington D.C., Estados Unidos",
+  
+  "qualifiedByConfederation": {
+    "AFC": {
+      "total": 8,
+      "qualified": 8,
+      "teams": [
+        {
+          "name": "Australia",
+          "flag": "🇦🇺",
+          "code": "AUS",
+          "ranking": 25,
+          "previousAppearances": 5,
+          "bestFinish": "Octavos de Final (2006, 2022)"
+        },
+        {
+          "name": "Irán",
+          "flag": "🇮🇷",
+          "code": "IRN",
+          "ranking": 20,
+          "previousAppearances": 6,
+          "bestFinish": "Fase de Grupos"
+        },
+        {
+          "name": "Japón",
+          "flag": "🇯🇵",
+          "code": "JPN",
+          "ranking": 18,
+          "previousAppearances": 7,
+          "bestFinish": "Octavos de Final"
+        },
+        {
+          "name": "Jordania",
+          "flag": "🇯🇴",
+          "code": "JOR",
+          "ranking": 68,
+          "previousAppearances": 0,
+          "bestFinish": "Debut",
+          "note": "Primera clasificación al Mundial"
+        },
+        {
+          "name": "Qatar",
+          "flag": "🇶🇦",
+          "code": "QAT",
+          "ranking": 34,
+          "previousAppearances": 1,
+          "bestFinish": "Fase de Grupos (2022)",
+          "note": "Primera clasificación por méritos propios"
+        },
+        {
+          "name": "Arabia Saudita",
+          "flag": "🇸🇦",
+          "code": "KSA",
+          "ranking": 54,
+          "previousAppearances": 6,
+          "bestFinish": "Octavos de Final (1994)"
+        },
+        {
+          "name": "Corea del Sur",
+          "flag": "🇰🇷",
+          "code": "KOR",
+          "ranking": 23,
+          "previousAppearances": 10,
+          "bestFinish": "Cuarto lugar (2002)"
+        },
+        {
+          "name": "Uzbekistán",
+          "flag": "🇺🇿",
+          "code": "UZB",
+          "ranking": 57,
+          "previousAppearances": 0,
+          "bestFinish": "Debut",
+          "note": "Primera clasificación al Mundial como nación independiente"
+        }
+      ]
+    },
+    
+    "CAF": {
+      "total": 9,
+      "qualified": 9,
+      "teams": [
+        {
+          "name": "Argelia",
+          "flag": "🇩🇿",
+          "code": "ALG",
+          "ranking": 44,
+          "previousAppearances": 4,
+          "bestFinish": "Octavos de Final (2014)",
+          "note": "Regresa después de 2014"
+        },
+        {
+          "name": "Cabo Verde",
+          "flag": "🇨🇻",
+          "code": "CPV",
+          "ranking": 66,
+          "previousAppearances": 0,
+          "bestFinish": "Debut",
+          "note": "Primera clasificación al Mundial - Nación más pequeña clasificada"
+        },
+        {
+          "name": "Egipto",
+          "flag": "🇪🇬",
+          "code": "EGY",
+          "ranking": 36,
+          "previousAppearances": 3,
+          "bestFinish": "Fase de Grupos",
+          "note": "Regresa después de 2018"
+        },
+        {
+          "name": "Ghana",
+          "flag": "🇬🇭",
+          "code": "GHA",
+          "ranking": 58,
+          "previousAppearances": 4,
+          "bestFinish": "Cuartos de Final (2010)"
+        },
+        {
+          "name": "Costa de Marfil",
+          "flag": "🇨🇮",
+          "code": "CIV",
+          "ranking": 39,
+          "previousAppearances": 3,
+          "bestFinish": "Fase de Grupos",
+          "note": "Regresa después de 2014"
+        },
+        {
+          "name": "Marruecos",
+          "flag": "🇲🇦",
+          "code": "MAR",
+          "ranking": 13,
+          "previousAppearances": 6,
+          "bestFinish": "Cuarto lugar (2022)"
+        },
+        {
+          "name": "Senegal",
+          "flag": "🇸🇳",
+          "code": "SEN",
+          "ranking": 17,
+          "previousAppearances": 3,
+          "bestFinish": "Cuartos de Final (2002)"
+        },
+        {
+          "name": "Sudáfrica",
+          "flag": "🇿🇦",
+          "code": "RSA",
+          "ranking": 57,
+          "previousAppearances": 3,
+          "bestFinish": "Fase de Grupos",
+          "note": "Regresa después de 2010"
+        },
+        {
+          "name": "Túnez",
+          "flag": "🇹🇳",
+          "code": "TUN",
+          "ranking": 47,
+          "previousAppearances": 6,
+          "bestFinish": "Fase de Grupos"
+        }
+      ]
+    },
+    
+    "CONCACAF": {
+      "total": 6,
+      "qualified": 3,
+      "remaining": 3,
+      "teams": [
+        {
+          "name": "Canadá",
+          "flag": "🇨🇦",
+          "code": "CAN",
+          "ranking": 40,
+          "previousAppearances": 2,
+          "bestFinish": "Fase de Grupos",
+          "note": "País anfitrión - Clasificación automática"
+        },
+        {
+          "name": "México",
+          "flag": "🇲🇽",
+          "code": "MEX",
+          "ranking": 12,
+          "previousAppearances": 16,
+          "bestFinish": "Cuartos de Final (1970, 1986)",
+          "note": "País anfitrión - Tercer Mundial organizado"
+        },
+        {
+          "name": "Estados Unidos",
+          "flag": "🇺🇸",
+          "code": "USA",
+          "ranking": 11,
+          "previousAppearances": 11,
+          "bestFinish": "Tercer lugar (1930)",
+          "note": "País anfitrión - Clasificación automática"
+        }
+      ],
+      "pending": "3 equipos más por clasificar en eliminatorias CONCACAF"
+    },
+    
+    "CONMEBOL": {
+      "total": 6,
+      "qualified": 6,
+      "teams": [
+        {
+          "name": "Argentina",
+          "flag": "🇦🇷",
+          "code": "ARG",
+          "ranking": 1,
+          "previousAppearances": 18,
+          "bestFinish": "Campeón (1978, 1986, 2022)",
+          "note": "Campeón vigente"
+        },
+        {
+          "name": "Brasil",
+          "flag": "🇧🇷",
+          "code": "BRA",
+          "ranking": 5,
+          "previousAppearances": 22,
+          "bestFinish": "Campeón (5 veces)",
+          "note": "Máximo ganador de la Copa del Mundo"
+        },
+        {
+          "name": "Colombia",
+          "flag": "🇨🇴",
+          "code": "COL",
+          "ranking": 9,
+          "previousAppearances": 6,
+          "bestFinish": "Cuartos de Final (2014)",
+          "note": "Regresa después de 2018"
+        },
+        {
+          "name": "Ecuador",
+          "flag": "🇪🇨",
+          "code": "ECU",
+          "ranking": 30,
+          "previousAppearances": 4,
+          "bestFinish": "Octavos de Final"
+        },
+        {
+          "name": "Paraguay",
+          "flag": "🇵🇾",
+          "code": "PAR",
+          "ranking": 62,
+          "previousAppearances": 8,
+          "bestFinish": "Cuartos de Final (2010)",
+          "note": "Regresa después de 2010"
+        },
+        {
+          "name": "Uruguay",
+          "flag": "🇺🇾",
+          "code": "URU",
+          "ranking": 14,
+          "previousAppearances": 14,
+          "bestFinish": "Campeón (1930, 1950)"
+        }
+      ]
+    },
+    
+    "OFC": {
+      "total": 1,
+      "qualified": 1,
+      "teams": [
+        {
+          "name": "Nueva Zelanda",
+          "flag": "🇳🇿",
+          "code": "NZL",
+          "ranking": 95,
+          "previousAppearances": 2,
+          "bestFinish": "Fase de Grupos",
+          "note": "Primera clasificación directa de OFC al Mundial (cupo garantizado)"
+        }
+      ]
+    },
+    
+    "UEFA": {
+      "total": 16,
+      "qualified": 1,
+      "remaining": 15,
+      "teams": [
+        {
+          "name": "Inglaterra",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "code": "ENG",
+          "ranking": 4,
+          "previousAppearances": 16,
+          "bestFinish": "Campeón (1966)"
+        }
+      ],
+      "pending": "15 equipos más por clasificar (11 directos + 4 por playoffs en marzo 2026)"
+    }
+  },
+  
+  "intercontinentalPlayoffs": {
+    "date": "Marzo 2026",
+    "spots": 2,
+    "participants": 6,
+    "format": "6 equipos (1 de cada confederación excepto UEFA + 1 extra de CONCACAF)",
+    "note": "Se jugará en uno de los países anfitriones como evento de prueba"
+  },
+  
+  "importantDates": {
+    "uefaPlayoffs": "Marzo 2026",
+    "intercontinentalPlayoffs": "Marzo 2026",
+    "finalDraw": "5 de diciembre de 2025",
+    "tournamentStart": "11 de junio de 2026",
+    "tournamentEnd": "19 de julio de 2026"
+  },
+  
+  "historicalMilestones": {
+    "firstTime": [
+      "Primer Mundial con 48 equipos (anteriormente 32)",
+      "Primer Mundial con 3 países anfitriones",
+      "Primera vez que OFC tiene cupo garantizado",
+      "Debut de Jordania, Uzbekistán y Cabo Verde",
+      "Primer Mundial desde 2002 con múltiples anfitriones",
+      "México se convierte en el primer país en organizar 3 Mundiales"
+    ],
+    "returning": [
+      "Colombia (ausente desde 2018)",
+      "Egipto (ausente desde 2018)",
+      "Argelia (ausente desde 2014)",
+      "Costa de Marfil (ausente desde 2014)",
+      "Sudáfrica (ausente desde 2010)",
+      "Paraguay (ausente desde 2010)"
+    ]
+  }
+}

@@ -1,76 +1,128 @@
 {
+  "note": "Sorteo final: 5 de diciembre de 2025. Algunos equipos aún por clasificar (playoffs UEFA y repechaje intercontinental en marzo 2026)",
   "groups": {
     "A": [
-      { "name": "México", "flag": "🇲🇽", "code": "MEX" },
-      { "name": "Uruguay", "flag": "🇺🇾", "code": "URU" },
-      { "name": "Jamaica", "flag": "🇯🇲", "code": "JAM" },
-      { "name": "TBD", "flag": "🏴", "code": "TBD" }
+      { "name": "México", "flag": "🇲🇽", "code": "MEX", "qualified": true },
+      { "name": "TBD", "flag": "�", "code": "TBD1", "qualified": false },
+      { "name": "TBD", "flag": "�", "code": "TBD2", "qualified": false },
+      { "name": "TBD", "flag": "🏴", "code": "TBD3", "qualified": false }
     ],
     "B": [
-      { "name": "Estados Unidos", "flag": "🇺🇸", "code": "USA" },
-      { "name": "Gales", "flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿", "code": "WAL" },
-      { "name": "Panamá", "flag": "🇵🇦", "code": "PAN" },
-      { "name": "TBD", "flag": "🏴", "code": "TBD" }
+      { "name": "Canadá", "flag": "��", "code": "CAN", "qualified": true },
+      { "name": "TBD", "flag": "🏴", "code": "TBD1", "qualified": false },
+      { "name": "TBD", "flag": "�", "code": "TBD2", "qualified": false },
+      { "name": "TBD", "flag": "🏴", "code": "TBD3", "qualified": false }
     ],
     "C": [
-      { "name": "Argentina", "flag": "🇦🇷", "code": "ARG" },
-      { "name": "Polonia", "flag": "🇵🇱", "code": "POL" },
-      { "name": "TBD", "flag": "🏴", "code": "TBD" },
-      { "name": "TBD", "flag": "🏴", "code": "TBD" }
+      { "name": "TBD", "flag": "�", "code": "TBD1", "qualified": false },
+      { "name": "TBD", "flag": "�", "code": "TBD2", "qualified": false },
+      { "name": "TBD", "flag": "🏴", "code": "TBD3", "qualified": false },
+      { "name": "TBD", "flag": "🏴", "code": "TBD4", "qualified": false }
     ],
     "D": [
-      { "name": "Francia", "flag": "🇫🇷", "code": "FRA" },
-      { "name": "Dinamarca", "flag": "🇩🇰", "code": "DEN" },
-      { "name": "TBD", "flag": "🏴", "code": "TBD" },
-      { "name": "TBD", "flag": "🏴", "code": "TBD" }
+      { "name": "Estados Unidos", "flag": "��", "code": "USA", "qualified": true },
+      { "name": "TBD", "flag": "�", "code": "TBD1", "qualified": false },
+      { "name": "TBD", "flag": "🏴", "code": "TBD2", "qualified": false },
+      { "name": "TBD", "flag": "🏴", "code": "TBD3", "qualified": false }
     ],
     "E": [
-      { "name": "Brasil", "flag": "🇧🇷", "code": "BRA" },
-      { "name": "Alemania", "flag": "🇩🇪", "code": "GER" },
-      { "name": "TBD", "flag": "🏴", "code": "TBD" },
-      { "name": "TBD", "flag": "🏴", "code": "TBD" }
+      { "name": "TBD", "flag": "�", "code": "TBD1", "qualified": false },
+      { "name": "TBD", "flag": "�", "code": "TBD2", "qualified": false },
+      { "name": "TBD", "flag": "🏴", "code": "TBD3", "qualified": false },
+      { "name": "TBD", "flag": "🏴", "code": "TBD4", "qualified": false }
     ],
     "F": [
-      { "name": "España", "flag": "🇪🇸", "code": "ESP" },
-      { "name": "Croacia", "flag": "🇭🇷", "code": "CRO" },
-      { "name": "TBD", "flag": "🏴", "code": "TBD" },
-      { "name": "TBD", "flag": "🏴", "code": "TBD" }
+      { "name": "TBD", "flag": "�", "code": "TBD1", "qualified": false },
+      { "name": "TBD", "flag": "�", "code": "TBD2", "qualified": false },
+      { "name": "TBD", "flag": "🏴", "code": "TBD3", "qualified": false },
+      { "name": "TBD", "flag": "🏴", "code": "TBD4", "qualified": false }
     ],
     "G": [
-      { "name": "Bélgica", "flag": "🇧🇪", "code": "BEL" },
-      { "name": "Países Bajos", "flag": "🇳🇱", "code": "NED" },
-      { "name": "TBD", "flag": "🏴", "code": "TBD" },
-      { "name": "TBD", "flag": "🏴", "code": "TBD" }
+      { "name": "TBD", "flag": "�", "code": "TBD1", "qualified": false },
+      { "name": "TBD", "flag": "�", "code": "TBD2", "qualified": false },
+      { "name": "TBD", "flag": "🏴", "code": "TBD3", "qualified": false },
+      { "name": "TBD", "flag": "🏴", "code": "TBD4", "qualified": false }
     ],
     "H": [
-      { "name": "Portugal", "flag": "🇵🇹", "code": "POR" },
-      { "name": "Italia", "flag": "🇮🇹", "code": "ITA" },
-      { "name": "TBD", "flag": "🏴", "code": "TBD" },
-      { "name": "TBD", "flag": "🏴", "code": "TBD" }
+      { "name": "TBD", "flag": "�", "code": "TBD1", "qualified": false },
+      { "name": "TBD", "flag": "�", "code": "TBD2", "qualified": false },
+      { "name": "TBD", "flag": "🏴", "code": "TBD3", "qualified": false },
+      { "name": "TBD", "flag": "🏴", "code": "TBD4", "qualified": false }
     ],
     "I": [
-      { "name": "Inglaterra", "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "code": "ENG" },
-      { "name": "Suiza", "flag": "🇨🇭", "code": "SUI" },
-      { "name": "TBD", "flag": "🏴", "code": "TBD" },
-      { "name": "TBD", "flag": "🏴", "code": "TBD" }
+      { "name": "TBD", "flag": "🏴", "code": "TBD1", "qualified": false },
+      { "name": "TBD", "flag": "🏴", "code": "TBD2", "qualified": false },
+      { "name": "TBD", "flag": "🏴", "code": "TBD3", "qualified": false },
+      { "name": "TBD", "flag": "🏴", "code": "TBD4", "qualified": false }
     ],
     "J": [
-      { "name": "Japón", "flag": "🇯🇵", "code": "JPN" },
-      { "name": "Senegal", "flag": "🇸🇳", "code": "SEN" },
-      { "name": "TBD", "flag": "🏴", "code": "TBD" },
-      { "name": "TBD", "flag": "🏴", "code": "TBD" }
+      { "name": "TBD", "flag": "�", "code": "TBD1", "qualified": false },
+      { "name": "TBD", "flag": "�", "code": "TBD2", "qualified": false },
+      { "name": "TBD", "flag": "🏴", "code": "TBD3", "qualified": false },
+      { "name": "TBD", "flag": "🏴", "code": "TBD4", "qualified": false }
     ],
     "K": [
-      { "name": "Corea del Sur", "flag": "🇰🇷", "code": "KOR" },
-      { "name": "Australia", "flag": "🇦🇺", "code": "AUS" },
-      { "name": "TBD", "flag": "🏴", "code": "TBD" },
-      { "name": "TBD", "flag": "🏴", "code": "TBD" }
+      { "name": "TBD", "flag": "🏴", "code": "TBD1", "qualified": false },
+      { "name": "TBD", "flag": "�", "code": "TBD2", "qualified": false },
+      { "name": "TBD", "flag": "�", "code": "TBD3", "qualified": false },
+      { "name": "TBD", "flag": "🏴", "code": "TBD4", "qualified": false }
     ],
     "L": [
-      { "name": "Marruecos", "flag": "🇲🇦", "code": "MAR" },
-      { "name": "Ecuador", "flag": "🇪🇨", "code": "ECU" },
-      { "name": "TBD", "flag": "🏴", "code": "TBD" },
-      { "name": "TBD", "flag": "🏴", "code": "TBD" }
+      { "name": "TBD", "flag": "🏴", "code": "TBD1", "qualified": false },
+      { "name": "TBD", "flag": "�", "code": "TBD2", "qualified": false },
+      { "name": "TBD", "flag": "🏴", "code": "TBD3", "qualified": false },
+      { "name": "TBD", "flag": "🏴", "code": "TBD4", "qualified": false }
     ]
+  },
+  "qualifiedTeams": {
+    "AFC": [
+      { "name": "Australia", "flag": "🇦🇺", "code": "AUS" },
+      { "name": "Irán", "flag": "🇮🇷", "code": "IRN" },
+      { "name": "Japón", "flag": "🇯🇵", "code": "JPN" },
+      { "name": "Jordania", "flag": "🇯🇴", "code": "JOR" },
+      { "name": "Qatar", "flag": "🇶🇦", "code": "QAT" },
+      { "name": "Arabia Saudita", "flag": "🇸🇦", "code": "KSA" },
+      { "name": "Corea del Sur", "flag": "🇰🇷", "code": "KOR" },
+      { "name": "Uzbekistán", "flag": "🇺🇿", "code": "UZB" }
+    ],
+    "CAF": [
+      { "name": "Argelia", "flag": "🇩🇿", "code": "ALG" },
+      { "name": "Cabo Verde", "flag": "🇨🇻", "code": "CPV" },
+      { "name": "Egipto", "flag": "🇪🇬", "code": "EGY" },
+      { "name": "Ghana", "flag": "🇬🇭", "code": "GHA" },
+      { "name": "Costa de Marfil", "flag": "🇨🇮", "code": "CIV" },
+      { "name": "Marruecos", "flag": "🇲🇦", "code": "MAR" },
+      { "name": "Senegal", "flag": "🇸�", "code": "SEN" },
+      { "name": "Sudáfrica", "flag": "🇿�", "code": "RSA" },
+      { "name": "Túnez", "flag": "🇹�", "code": "TUN" }
+    ],
+    "CONCACAF": [
+      { "name": "Canadá", "flag": "🇨🇦", "code": "CAN" },
+      { "name": "México", "flag": "🇲🇽", "code": "MEX" },
+      { "name": "Estados Unidos", "flag": "🇺🇸", "code": "USA" }
+    ],
+    "CONMEBOL": [
+      { "name": "Argentina", "flag": "🇦🇷", "code": "ARG" },
+      { "name": "Brasil", "flag": "��", "code": "BRA" },
+      { "name": "Colombia", "flag": "🇨🇴", "code": "COL" },
+      { "name": "Ecuador", "flag": "🇪🇨", "code": "ECU" },
+      { "name": "Paraguay", "flag": "🇵🇾", "code": "PAR" },
+      { "name": "Uruguay", "flag": "🇺🇾", "code": "URU" }
+    ],
+    "OFC": [
+      { "name": "Nueva Zelanda", "flag": "🇳�", "code": "NZL" }
+    ],
+    "UEFA": [
+      { "name": "Inglaterra", "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "code": "ENG" }
+    ]
+  },
+  "totalQualified": 28,
+  "totalSpots": 48,
+  "remainingSpots": 20,
+  "pendingQualification": {
+    "UEFA_playoffs": "4 equipos (marzo 2026)",
+    "InterContinental_playoffs": "2 equipos (marzo 2026)",
+    "CONCACAF": "3 equipos más por definir",
+    "UEFA": "15 equipos más por definir"
   }
 }
